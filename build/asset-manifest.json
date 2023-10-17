@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c1b468fc.css",
+    "main.js": "/static/js/main.db374995.js",
+    "static/js/787.bd1808de.chunk.js": "/static/js/787.bd1808de.chunk.js",
+    "static/media/background_hero_optimized.jpg": "/static/media/background_hero_optimized.f31ef45c0ebd97366fe3.jpg",
+    "static/media/metric_background_optimized.jpeg": "/static/media/metric_background_optimized.32fd08078788864e3dc9.jpeg",
+    "static/media/pyrforos.svg": "/static/media/pyrforos.dd7313a21f26cd24cddc23831e2a0eac.svg",
+    "static/media/404.png": "/static/media/404.72de10d531cb777e54a9.png",
+    "static/media/ieee_logo_optimized.png": "/static/media/ieee_logo_optimized.ef37efa4023e05422308.png",
+    "static/media/LeagueSpartan-VF.woff2": "/static/media/LeagueSpartan-VF.6ed351c4a3144c5e355c.woff2",
+    "static/media/ieee_master.png": "/static/media/ieee_master.eb83373dfea0bfa8c028.png",
+    "static/media/ieee_greece.png": "/static/media/ieee_greece.0c908428bbcea85d214f.png",
+    "index.html": "/index.html",
+    "static/media/teams3.svg": "/static/media/teams3.84713cfe0e6ec17a6945cbade3660b06.svg",
+    "static/media/members.svg": "/static/media/members.b38e46b298639f4c75fc1ab1ef1f9e12.svg",
+    "static/media/tiktok.svg": "/static/media/tiktok.5cb594ecbc26040d960c1151f5736e0d.svg",
+    "static/media/american_flag.svg": "/static/media/american_flag.174bab9f41af54537c1ec262a6c84693.svg",
+    "static/media/events.svg": "/static/media/events.9007c5d5178771539db1cd11fb3df150.svg",
+    "static/media/volunteers.svg": "/static/media/volunteers.13b48c60618f3a45e0ef37275a8e13ef.svg",
+    "static/media/search.svg": "/static/media/search.db09abd1b15cf0a333e4958c9a2859e5.svg",
+    "static/media/greek_flag.svg": "/static/media/greek_flag.3eeff25cb8e336a25800c94d016a6c87.svg",
+    "main.c1b468fc.css.map": "/static/css/main.c1b468fc.css.map",
+    "main.db374995.js.map": "/static/js/main.db374995.js.map",
+    "787.bd1808de.chunk.js.map": "/static/js/787.bd1808de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1b468fc.css",
+    "static/js/main.db374995.js"
+  ]
+}
